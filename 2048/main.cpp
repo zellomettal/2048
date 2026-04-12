@@ -1,9 +1,9 @@
-﻿#include<iostream>
+#include<iostream>
 #include<conio.h>
 #include<time.h>
 #include<windows.h>
 
-#define MOVE_LEFT 75  //Задание переменных для отлова с клавиатуры
+#define MOVE_LEFT 75  ///Задание переменных для отлова с клавиатуры
 #define MOVE_RIGHT 77
 #define MOVE_UP 72
 #define MOVE_DOWN 80
